@@ -1,7 +1,6 @@
 import { mostrarPreguntasyRespuestas } from "./Preguntando/Db/preguntando";
 
 export const divApp = document.querySelector<HTMLDivElement>("#app")!;
-const divPuntaje = document.querySelector<HTMLDivElement>("#divPuntaje")!;
 
 // dibujarPreguntasRespuestas(db[0], divApp);
 

@@ -1,5 +1,4 @@
 import { PreguntasyRespuestas } from "./database";
-import { IPreguntaRespuesta } from "./preguntando.interface";
 
 // export function dibujarPreguntasRespuestas(
 // 	pr: IPreguntaRespuesta,
